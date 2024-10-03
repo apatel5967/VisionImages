@@ -5,4 +5,6 @@ Initially used an RGB color space, but realized that the boundaries of "orange" 
 
 # Images from tests:
 
-![image](https://github.com/user-attachments/assets/ff852237-4897-4ebb-8b12-bffbe477cfe2)
+![2](https://github.com/user-attachments/assets/14be0f71-3bb1-4d94-bda6-473913a35a81)
+![image](https://github.com/user-attachments/assets/b69eb1c9-a693-4c97-b1e1-7f8a583dd430)
+
